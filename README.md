@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @daniel-martensson
 - 👀 I’m interested in 
   - Exercise:
-    - Golf
-    - Obstacle Course Racing
-  -  Music:
-    - Guitar
-    - Piano
+      - Golf
+      - Obstacle Course Racing
+  -  Music:   
+      - Guitar
+      - Piano
 - 🌱 I’m currently learning Karolinska IT Domain
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me daniel.martensson@regionstockholm.se
