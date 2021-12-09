@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @daniel-martensson
-- 👀 I’m interested in exercise such as Golf and Obstacle Course Racing, music with Guitar & Piano
+- 👀 I’m interested in 
+  - Exercise:
+    - Golf and Obstacle Course Racing
+  -  music
+    - Guitar & Piano
 - 🌱 I’m currently learning Karolinska IT Domain
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me daniel.martensson@regionstockholm.se
